@@ -115,7 +115,7 @@ header .fa-times{
         background-color: #fff;
         border-radius: 1rem;
         /* flex-wrap: wrap; */
-        transition: 2s linear;
+        transition: 0.5s linear;
     }
     header .navbar ul{
         flex-flow: column;
@@ -611,3 +611,5 @@ flex-wrap: wrap;
 .footer .credit span{
     color:var(--pink) ;
 }
+/* url(https://rajperfattah.github.io/onlineEducation/) */
+
